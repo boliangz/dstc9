@@ -49,7 +49,7 @@ def get_final_response(model_res, dataset= 'multiwoz'):
 
   except Exception as e:
     traceback.print_exc()
-    print('model_res:', model_res)
+    # print('model_res:', model_res)
     return delexed_response, delexed_response
 
 
@@ -74,8 +74,8 @@ def post_process_constraints(belief_state_str):
   rtn = belief_state_str.replace(', type = hotel', '')
   rtn = rtn.replace('type = hotel, ', '')
   rtn = rtn.replace('hotel { type = hotel } ', '')
-  if rtn != belief_state_str:
-    print('--> fix_hotel_constraints triggered.')
+  # if rtn != belief_state_str:
+  #   print('--> fix_hotel_constraints triggered.')
   belief_state_str = rtn
 
   #
@@ -104,7 +104,7 @@ def post_process_constraints(belief_state_str):
         del cons['name']
 
   if constraints != new_constraints:
-    print('--> fix name constraints triggered.')
+    # print('--> fix name constraints triggered.')
     constraints_str = dict_to_belief_str(constraints)
     new_constraints_str = dict_to_belief_str(new_constraints)
     belief_state_str = belief_state_str.replace(
