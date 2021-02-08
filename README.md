@@ -8,7 +8,7 @@ Our best system achieves 74.8% success rate and ties for first place in the chal
 
 We release our code for research purpose. 
 The code is based on [Convlab-2](https://github.com/thu-coai/ConvLab-2) which is a dialog evaluation toolkit provided by the shared task organizer. 
-Please also checkout our paper for more details: [A Hybrid Task-Oriented Dialog System with Domain and Task Adaptive Pretraining](https://drive.google.com/file/d/1GWZhY05C7aiiJZ9GE8smwME0V1X95M1h/view)
+Please also checkout our paper for more details: [A Hybrid Task-Oriented Dialog System with Domain and Task Adaptive Pretraining](https://drive.google.com/file/d/1GWZhY05C7aiiJZ9GE8smwME0V1X95M1h/view).
 
 ## Installation
 
@@ -47,14 +47,14 @@ python end2end/submission1/automatic.py
 
 ## Cite
 
-Please cite this paper if you find this repository is useful:
+Please cite this paper if you find this repository useful:
 ```
 coming soon
 ```
 
 ## Contact
 
-Feel free to 
+Questions? Suggestions? Please use Github "Issues" panel or email [boliangzhang@didiglobal.com](mailto:boliangzhang@didiglobal.com).   
 
 
 
