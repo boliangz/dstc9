@@ -1,0 +1,32 @@
+{
+  "value_set": "",
+  "data_path": "end2end/data/taskmaster2019_woz/data/woz-dialogs_formated.json",
+  "dbs":{
+    "pizza-ordering-1":"",
+    "restaurant-table-1":"",
+    "restaurant-table-2":"",
+    "auto-repair-2":"",
+    "coffee-ordering-1":"",
+    "uber-lyft-1":"",
+    "movie-tickets-1":"",
+    "auto-repair-1":"",
+    "movie-tickets-2":""
+
+
+
+  },
+  "processed_dbs":{
+    "pizza-ordering-1":"",
+    "restaurant-table-1":"",
+    "restaurant-table-2":"",
+    "auto-repair-2":"",
+    "coffee-ordering-1":"",
+    "uber-lyft-1":"",
+    "movie-tickets-1":"",
+    "auto-repair-1":"",
+    "movie-tickets-2":""
+
+      },
+  "processed_data_dir": "end2end/data/taskmaster2019_woz-processed/",
+  "vocab_size": 28806
+}

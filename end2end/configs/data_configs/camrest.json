@@ -1,0 +1,12 @@
+{
+  "value_set": "",
+  "data_path": "end2end/data/camrest/CamRest676/CamRest676_formated.json",
+  "dbs":{
+          "restaurant": "end2end/data/camrest/CamRest676/CamRestDB.json"
+      },
+  "processed_dbs":{
+          "restaurant": "end2end/data/camrest/CamRest676/CamRestDB.json"
+      },
+  "processed_data_dir": "end2end/data/camrest-processed/",
+  "vocab_size": 3000
+}

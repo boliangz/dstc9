@@ -1,0 +1,17 @@
+{
+  "value_set": "",
+  "data_path": "end2end/data/msr_e2e/data/msr_e2e_formated.json",
+  "dbs":{
+    "taxi": "",
+    "movie": "",
+    "restaurant": ""
+
+  },
+  "processed_dbs":{
+    "taxi": "",
+    "movie": "",
+    "restaurant": ""
+      },
+  "processed_data_dir": "end2end/data/msr_e2e-processed/",
+  "vocab_size": 43331
+}

@@ -1,0 +1,43 @@
+{
+  "value_set": "",
+  "data_path": "end2end/data/taskmaster2019_self/data/self-dialogs_formated.json",
+  "dbs":{
+    "coffee-ordering-2":"",
+    "restaurant-table-1":"",
+    "uber-lyft-1":"",
+    "movie-finder":"",
+    "pizza-ordering-1":"",
+    "movie-tickets-1":"",
+    "auto-repair-appt-1":"",
+    "uber-lyft-2":"",
+    "movie-tickets-3":"",
+    "movie-tickets-2":"",
+    "pizza-ordering-2":"",
+    "coffee-ordering-1":"",
+    "restaurant-table-2":"",
+    "movie-ticket-1":"",
+    "restaurant-table-3":""
+
+
+  },
+  "processed_dbs":{
+    "coffee-ordering-2":"",
+    "restaurant-table-1":"",
+    "uber-lyft-1":"",
+    "movie-finder":"",
+    "pizza-ordering-1":"",
+    "movie-tickets-1":"",
+    "auto-repair-appt-1":"",
+    "uber-lyft-2":"",
+    "movie-tickets-3":"",
+    "movie-tickets-2":"",
+    "pizza-ordering-2":"",
+    "coffee-ordering-1":"",
+    "restaurant-table-2":"",
+    "movie-ticket-1":"",
+    "restaurant-table-3":""
+
+      },
+  "processed_data_dir": "end2end/data/taskmaster2019_self-processed/",
+  "vocab_size": 50342
+}

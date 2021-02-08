@@ -1,0 +1,17 @@
+{
+  "value_set": "",
+  "data_path": "end2end/data/smd/kvret_dataset_public/kvret_public_formated.json",
+  "dbs":{
+    "schedule": "",
+    "weather": "",
+    "navigate": ""
+
+  },
+  "processed_dbs":{
+    "schedule": "",
+    "weather": "",
+    "navigate": ""
+      },
+  "processed_data_dir": "end2end/data/smd-processed/",
+  "vocab_size": 3736
+}

@@ -1,0 +1,30 @@
+{
+  "data": {
+    "train":  "/nfs/volume-242-1/dingning/dstc9/end2end/data/multiwoz-processed/train_data_for_soloist.json",
+    "dev":  "/nfs/volume-242-1/dingning/dstc9/end2end/data/multiwoz-processed/val_data_for_soloist.json",
+    "test": "/nfs/volume-242-1/dingning/dstc9/end2end/data/multiwoz-processed/test_data_for_soloist.json"
+  },
+
+  "method": "baseline",
+
+  "train": {
+    "pretrained_gpt": "../end2end/soloist/gpt2_en/",
+    "max_turn": "3",
+    "max_seq_len": "512",
+    "max_resp_len": "128",
+    "optimizer": "adam",
+    "learning_rate": "5e-5",
+    "validation_freq": "2000",
+    "log_freq": "50",
+    "batch_size_per_gpu": "2",
+    "num_epochs": "20",
+    "node_num": "1",
+    "net_interface": "eth0",
+    "gpu_num": "4",
+    "cuda_device": "0,1,2,3"
+  },
+
+  "global_config": {
+    "python_path": "../../dstc9"
+  }
+}

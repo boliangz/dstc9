@@ -1,0 +1,25 @@
+{
+  "ontology_path": "data/multiwoz/ontology.json",
+  "value_set": "data/multiwoz/value_set.json",
+  "data_path": "data/multiwoz/data.json",
+  "dbs":{
+          "attraction": "end2end/data/multiwoz/db/attraction_db.json",
+          "hospital": "end2end/data/multiwoz/db/hospital_db.json",
+          "hotel": "end2end/data/multiwoz/db/hotel_db.json",
+          "police": "end2end/data/multiwoz/db/police_db.json",
+          "restaurant": "end2end/data/multiwoz/db/restaurant_db.json",
+          "taxi": "end2end/data/multiwoz/db/taxi_db.json",
+          "train": "end2end/data/multiwoz/db/train_db.json"
+      },
+  "processed_dbs":{
+          "attraction": "end2end/data/multiwoz/db/attraction_db_processed.json",
+          "hospital": "end2end/data/multiwoz/db/hospital_db_processed.json",
+          "hotel": "end2end/data/multiwoz/db/hotel_db_processed.json",
+          "police": "end2end/data/multiwoz/db/police_db_processed.json",
+          "restaurant": "end2end/data/multiwoz/db/restaurant_db_processed.json",
+          "taxi": "end2end/data/multiwoz/db/taxi_db_processed.json",
+          "train": "end2end/data/multiwoz/db/train_db_processed.json"
+      },
+  "processed_data_dir": "end2end/data/multiwoz-processed/",
+  "vocab_size": 20538
+}

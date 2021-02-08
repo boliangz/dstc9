@@ -1,0 +1,464 @@
+[
+  {
+    "id": 0,
+    "department": "neurosciences critical care unit",
+    "phone": "01223216297",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 1,
+    "department": "trauma high dependency unit",
+    "phone": "01223216305",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 2,
+    "department": "neurology neurosurgery",
+    "phone": "01223217216",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 3,
+    "department": "oncology neurosurgery",
+    "phone": "01223216314",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 4,
+    "department": "children 's oncology and haematology",
+    "phone": "01223217231",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 5,
+    "department": "children 's surgical and medicine",
+    "phone": "01223217450",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 6,
+    "department": "acute medicine for the elderly",
+    "phone": "01223217261",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 7,
+    "department": "general medicine and nephrology",
+    "phone": "01223217195",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 8,
+    "department": "medicine for the elderly",
+    "phone": "01223216988",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 9,
+    "department": "hepatobillary and gastrointestinal surgery regional referral centre",
+    "phone": "01223217300",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 10,
+    "department": "trauma and orthopaedics",
+    "phone": "01223217279",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 11,
+    "department": "teenage cancer trust unit",
+    "phone": "01223274222",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 12,
+    "department": "haematology and haematological oncology",
+    "phone": "01223217312",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 13,
+    "department": "children 's surgical and medicine",
+    "phone": "01223217250",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 14,
+    "department": "intermediate dependancy area",
+    "phone": "01223348144",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 15,
+    "department": "hepatology",
+    "phone": "01223217712",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 16,
+    "department": "haematology",
+    "phone": "01223274679",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 17,
+    "department": "neurology",
+    "phone": "01223274680",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 18,
+    "department": "surgery",
+    "phone": "01223217303",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 19,
+    "department": "trauma and orthopaedics",
+    "phone": "01223217282",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 20,
+    "department": "oncology",
+    "phone": "01223217708",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 21,
+    "department": "infectious diseases",
+    "phone": "01223217314",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 22,
+    "department": "haematology day unit",
+    "phone": "01223348169",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 23,
+    "department": "clinical decisions unit",
+    "phone": "01223596203",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 24,
+    "department": "acute medical assessment unit",
+    "phone": "01223348314",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 25,
+    "department": "medical short stay unit",
+    "phone": "01223348336",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 26,
+    "department": "inpatient occupational therapy",
+    "phone": "01223216881",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 27,
+    "department": "paediatric day unit",
+    "phone": "01223217567",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 28,
+    "department": "paediatric clinic",
+    "phone": "01223348313",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 29,
+    "department": "medicine for the elderly",
+    "phone": "01223274744",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 30,
+    "department": "transplant high dependency unit",
+    "phone": "01223216811",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 31,
+    "department": "diabetes and endocrinology",
+    "phone": "01223217323",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 32,
+    "department": "infusion services",
+    "phone": "01223586967",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 33,
+    "department": "medicine for the elderly",
+    "phone": "01223217484",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 34,
+    "department": "medicine for the elderly",
+    "phone": "01223217498",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 35,
+    "department": "transplant unit",
+    "phone": "01223217711",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 36,
+    "department": "medicine for the elderly",
+    "phone": "01223217428",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 37,
+    "department": "theatre admissions unit",
+    "phone": "01223256583",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 38,
+    "department": "cardiology",
+    "phone": "01223256233",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 39,
+    "department": "major trauma unit",
+    "phone": "01223349881",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 40,
+    "department": "cardiology and coronary care unit",
+    "phone": "01223256459",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 41,
+    "department": "colorectal surgery",
+    "phone": "01223348545",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 42,
+    "department": "plastic and vascular surgery plastics",
+    "phone": "01223274280",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 43,
+    "department": "gastroenterology",
+    "phone": "01223274284",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 44,
+    "department": "oral and maxillofacial surgery and ent",
+    "phone": "01223348527",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 45,
+    "department": "urology",
+    "phone": "01223256650",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 46,
+    "department": "respiratory medicine",
+    "phone": "01223256645",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 47,
+    "department": "lewin stroke and rehabilitation unit",
+    "phone": "01223274750",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 48,
+    "department": "neurosciences",
+    "phone": "01223216348",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 49,
+    "department": "psychiatry",
+    "phone": "01223596201",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 50,
+    "department": "emergency department",
+    "phone": "01223217118",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 51,
+    "department": "cambridge eye unit",
+    "phone": "01223257168",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 52,
+    "department": "clinical investigation ward",
+    "phone": "01223586706",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 53,
+    "department": "clinical research facility",
+    "phone": "01223596055",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 54,
+    "department": "coronary care unit",
+    "phone": "01223217297",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 55,
+    "department": "intermediate dependency area",
+    "phone": "01223217873",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 56,
+    "department": "medical decisions unit",
+    "phone": "01223596066",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 57,
+    "department": "paediatric intensive care unit",
+    "phone": "01223217715",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 58,
+    "department": "paediatric day unit",
+    "phone": "01223257157",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 59,
+    "department": "john farman intensive care unit",
+    "phone": "01223256166",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 60,
+    "department": "delivery unit",
+    "phone": "01223217217",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 61,
+    "department": "postnatal",
+    "phone": "01223217667",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 62,
+    "department": "neonatal unit",
+    "phone": "01223217678",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 63,
+    "department": "antenatal",
+    "phone": "01223217671",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 64,
+    "department": "transitional care",
+    "phone": "01223254668",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  },
+  {
+    "id": 65,
+    "department": "gynaecology",
+    "phone": "01223257206",
+    "address": "hills rd , cambridge",
+    "postcode": "cb20qq"
+  }
+]

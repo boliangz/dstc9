@@ -1,0 +1,2 @@
+netifaces
+git+https://git.xiaojukeji.com/boliangzhang/luban_offline

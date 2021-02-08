@@ -1,0 +1,12 @@
+#
+# model description
+#
+
+Our system is a hybrid end-to-end neural model that consists of 1) a pretrain-finetune architecture using GPT-2 as the backend, 2) various pre/post-processing modules to improve model generalization ability, and 3) a fault tolerance mechanism to correct errors.
+We borrow the pretraining and finetuning strategy from [1] and [2], where we apply Domain Adaptive (using GPT-2 objectives) and Task Adaptive (using task specific objectives) pretraining on domain related datasets before finetuning on the Multiwoz dataset.
+The pre-processing module normalizes dialog slots and delexicalizes utterances, followed by a rule-based post-processing module to recover the delexicalization.
+The fault tolerance mechanism adjusts the GPT-2 decoder to produce different but potentially correct outputs when errors or inappropriate responses occur.
+
+
+[1] SOLOIST: Few-shot Task-Oriented Dialog with A Single Pre-trained Auto-regressive Model. Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao. arXiv, 2020
+[2] Don't Stop Pretraining: Adapt Language Models to Domains and Tasks. Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, Noah A. Smith. ACL, 2020
