@@ -1,5 +1,20 @@
 # Soloist
 
+**(This document was used internally during the system development.
+A lot of things like paths and configurations are hardcoded based on our server configurations.
+Fair amount of hacking and modifications are expected if you want to train new models. 
+We apologize for not being able to provide fully tested training recipe.)** 
+
+Commands to download the `gp2_en` model mentioned below (it is identical to the `gpt2` model released by [transformers](https://huggingface.co/transformers/pretrained_models.html)):
+```bash
+mkdir gpt2_en
+wget -P gpt2_en/ https://storage.googleapis.com/dstc9_submission/gpt2_en/config.json
+wget -P gpt2_en/ https://storage.googleapis.com/dstc9_submission/gpt2_en/merges.txt
+wget -P gpt2_en/ https://storage.googleapis.com/dstc9_submission/gpt2_en/pytorch_model.bin
+wget -P gpt2_en/ https://storage.googleapis.com/dstc9_submission/gpt2_en/vocab.json
+
+``` 
+
 ## Quick Start
 
 Train and evaluate a baseline SOLOIST model.
@@ -35,7 +50,7 @@ Change `node_num` to the number of nodes (machines) you want to use, then start 
 
 (this requires the installation of Luban_offline task. will add instructions for this if necessary.) 
 
-## Build a new method
+## Try a new method
 
 Try out your new ideas to improve the SOLOIST agent. 
 You only need to write the Soloist algorithm and the rest work are handled by experiment management system ([`experiment_management`](experiment_management)).
@@ -56,9 +71,15 @@ cd methods/improved_soloist
 PYTHONPATH=<dstc9_project_dir> python test_Soloist > test.log.txt
 ```
 
+## Cite
 
-## Install Soloist dependencies
-
-to-do
-
+Please also cite this paper if you find the code useful:
+```
+@article{peng2020soloist,
+  title={Soloist: Few-shot task-oriented dialog with a single pre-trained auto-regressive model},
+  author={Peng, Baolin and Li, Chunyuan and Li, Jinchao and Shayandeh, Shahin and Liden, Lars and Gao, Jianfeng},
+  journal={arXiv preprint arXiv:2005.05298},
+  year={2020}
+}
+```
 

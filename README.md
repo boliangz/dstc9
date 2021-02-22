@@ -6,7 +6,8 @@ Participants in this shared task build end-to-end dialog systems that can assist
 In the evaluation, human users are recruited and chat with the system to fulfill tasks. At the end of the conversation, human users mark whether the task is fulfilled or not based on system responses. 
 Our best system achieves 74.8% success rate and ties for first place in the challenge. It scores 4.51/5 on language understanding and 4.45/5 on response appropriateness, which are the two additional metrics judged by human users.
 
-We release our code for research purpose. 
+We release our code for research purpose. At the moment, only the inference part is fully tested. 
+For training new models, please refer to our internal documentation [`end2end/soloist`](./end2end/soloist) (fair amount of hacking and modifications are expected). 
 The code is based on [Convlab-2](https://github.com/thu-coai/ConvLab-2) which is a dialog evaluation toolkit provided by the shared task organizer. 
 Please checkout our paper for more details: [A Hybrid Task-Oriented Dialog System with Domain and Task Adaptive Pretraining](https://drive.google.com/file/d/1GWZhY05C7aiiJZ9GE8smwME0V1X95M1h/view).
 
@@ -49,7 +50,14 @@ python end2end/submission1/automatic.py
 
 Please cite this paper if you find this repository useful:
 ```
-coming soon
+@article{zhang2021hybrid,
+      title={A Hybrid Task-Oriented Dialog System with Domain and Task Adaptive Pretraining}, 
+      author={Boliang Zhang and Ying Lyu and Ning Ding and Tianhao Shen and Zhaoyang Jia and Kun Han and Kevin Knight},
+      year={2021},
+      eprint={2102.04506},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 ## Contact
